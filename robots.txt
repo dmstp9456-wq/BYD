@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dmstp9456-wq.github.io/sitemap.xml
